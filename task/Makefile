@@ -1,0 +1,3 @@
+COMPONENT=IntDataAppC
+
+include $(MAKERULES)
